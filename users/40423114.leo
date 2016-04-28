@@ -78,9 +78,9 @@ Author: 40423114
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="https://cms-mde40423117.rhcloud.com/"&gt;CMSimply 內容管理系統&lt;/a&gt;
+&lt;a href="http://cmsimply-g0910841123.rhcloud.com/"&gt;CMSimply 內容管理系統&lt;/a&gt;
 
-&lt;a href="http://40423117.github.io/blog/post/index.html"&gt;Pelican 靜態網址&lt;/a&gt;
+&lt;a href="http://g0910841123.github.io/blog/post/"&gt;Pelican 靜態網址&lt;/a&gt;
 
 &lt;a href="http://wp-g0910841123.rhcloud.com/"&gt;WordPress 動態網誌&lt;/a&gt;
 </t>
@@ -314,15 +314,14 @@ Category: 規劃
 Tags: CADLAB, Ｍanual, MCAD
 Author: 40423114
 @others
-個人網際內容管理
+跳線測試
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="https://cms-mde40423117.rhcloud.com/"&gt;CMSimply 內容管理系統&lt;/a&gt;
+&lt;iframe src="https://youtu.be/fLf7yW2Ei2A" width="480" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a
 
-&lt;a href="http://40423117.github.io/blog/post/index.html"&gt;Pelican 靜態網址&lt;/a&gt;
 
-&lt;a href="http://wp-mde40423117.rhcloud.com"&gt;WordPress 動態網誌&lt;/a&gt;
+網絡線 由於沒有線了所以我沒有做到
 </t>
 <t tx="leo.20160428223237.1">@language md
 Title: 網路配置
