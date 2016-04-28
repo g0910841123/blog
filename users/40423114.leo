@@ -318,7 +318,7 @@ Author: 40423114
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;iframe src="https://youtu.be/fLf7yW2Ei2A" width="480" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fLf7yW2Ei2A" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 網絡線 由於沒有線了所以我沒有做到
