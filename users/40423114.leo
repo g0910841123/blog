@@ -34,9 +34,12 @@
 <v t="amd.20160329124921.1"><vh>@edit index.html</vh></v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
-<v t="leo.20160401114622.1" a="E"><vh>@clean admin-20160401.md</vh>
-<v t="leo.20160425224655.1"><vh>11</vh></v>
-</v>
+<v t="leo.20160401114622.1"><vh>@clean admin-20160401.md</vh></v>
+<v t="leo.20160428223049.1"><vh>@clean admin-20160402.md</vh></v>
+<v t="leo.20160428223237.1"><vh>@clean admin-20160403.md</vh></v>
+<v t="leo.20160428223244.1"><vh>@clean admin-20160404.md</vh></v>
+<v t="leo.20160428223247.1"><vh>@clean admin-20160405.md</vh></v>
+<v t="leo.20160428223251.1"><vh>@clean admin-20160406.md</vh></v>
 </v>
 </v>
 </vnodes>
@@ -66,7 +69,7 @@ g.es("admin pelican 執行完畢")
 <t tx="leo.20160401105245.1"></t>
 <t tx="leo.20160401105246.1"></t>
 <t tx="leo.20160401114622.1">@language md
-Title: admin-網際內容管理
+Title: 40423114的網誌
 Category: 規劃
 Tags: CADLAB, Ｍanual, MCAD
 Author: 40423114
@@ -79,7 +82,7 @@ Author: 40423114
 
 &lt;a href="http://40423117.github.io/blog/post/index.html"&gt;Pelican 靜態網址&lt;/a&gt;
 
-&lt;a href="http://wp-mde40423117.rhcloud.com"&gt;WordPress 動態網誌&lt;/a&gt;
+&lt;a href="http://wp-g0910841123.rhcloud.com/"&gt;WordPress 動態網誌&lt;/a&gt;
 </t>
 <t tx="leo.20160408095026.1"></t>
 <t tx="leo.20160408095046.1">@language python
@@ -305,6 +308,71 @@ p.b = line1 + line2 + line3 + line4 + line5 + post_content + "\n"
 # 因為節點資料更新, commander 必須 redraw
 c.redraw() 
 g.es("資料已經取回")</t>
-<t tx="leo.20160425224655.1"></t>
+<t tx="leo.20160428223049.1">@language md
+Title: 跳線及網路線
+Category: 規劃
+Tags: CADLAB, Ｍanual, MCAD
+Author: 40423114
+@others
+個人網際內容管理
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;a href="https://cms-mde40423117.rhcloud.com/"&gt;CMSimply 內容管理系統&lt;/a&gt;
+
+&lt;a href="http://40423117.github.io/blog/post/index.html"&gt;Pelican 靜態網址&lt;/a&gt;
+
+&lt;a href="http://wp-mde40423117.rhcloud.com"&gt;WordPress 動態網誌&lt;/a&gt;
+</t>
+<t tx="leo.20160428223237.1">@language md
+Title: 網路配置
+Category: 規劃
+Tags: CADLAB, Ｍanual, MCAD
+Author: 40423114
+@others
+我不會 做
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;iframe src="http://i.imgur.com/gkXsFqf.jpg" width="960" height="1280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20160428223244.1">@language md
+Title: 虛擬規劃
+Category: 規劃
+Tags: CADLAB, Ｍanual, MCAD
+Author: 40423114
+@others
+個人網際內容管理
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;a href="https://cms-mde40423117.rhcloud.com/"&gt;CMSimply 內容管理系統&lt;/a&gt;
+
+&lt;a href="http://40423117.github.io/blog/post/index.html"&gt;Pelican 靜態網址&lt;/a&gt;
+
+&lt;a href="http://wp-mde40423117.rhcloud.com"&gt;WordPress 動態網誌&lt;/a&gt;
+</t>
+<t tx="leo.20160428223247.1">@language md
+Title: 3個按鈕
+Category: 規劃
+Tags: CADLAB, Ｍanual, MCAD
+Author: 40423114
+@others
+3個按鈕測試
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+</t>
+<t tx="leo.20160428223251.1">@language md
+Title: 測試
+Category: 規劃
+Tags: CADLAB, Ｍanual, MCAD
+Author: 40423114
+@others
+測試
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+
+</t>
 </tnodes>
 </leo_file>
