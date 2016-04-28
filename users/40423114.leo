@@ -34,12 +34,24 @@
 <v t="amd.20160329124921.1"><vh>@edit index.html</vh></v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
-<v t="leo.20160401114622.1"><vh>@clean admin-20160401.md</vh></v>
-<v t="leo.20160428223049.1"><vh>@clean admin-20160402.md</vh></v>
-<v t="leo.20160428223237.1"><vh>@clean admin-20160403.md</vh></v>
-<v t="leo.20160428223244.1"><vh>@clean admin-20160404.md</vh></v>
-<v t="leo.20160428223247.1"><vh>@clean admin-20160405.md</vh></v>
-<v t="leo.20160428223251.1"><vh>@clean admin-20160406.md</vh></v>
+<v t="leo.20160401114622.1" a="E"><vh>@clean admin-20160401.md</vh>
+<v t="leo.20160428231132.1"><vh>12</vh></v>
+</v>
+<v t="leo.20160428223049.1" a="E"><vh>@clean admin-20160402.md</vh>
+<v t="leo.20160428231152.1"><vh>14</vh></v>
+</v>
+<v t="leo.20160428223237.1" a="E"><vh>@clean admin-20160403.md</vh>
+<v t="leo.20160428231156.1"><vh>16</vh></v>
+</v>
+<v t="leo.20160428223244.1" a="E"><vh>@clean admin-20160404.md</vh>
+<v t="leo.20160428231205.1"><vh>20</vh></v>
+</v>
+<v t="leo.20160428223247.1" a="E"><vh>@clean admin-20160405.md</vh>
+<v t="leo.20160428231200.1"><vh>18</vh></v>
+</v>
+<v t="leo.20160428223251.1"><vh>@clean admin-20160406.md</vh>
+<v t="leo.20160428231919.1"><vh>28</vh></v>
+</v>
 </v>
 </v>
 </vnodes>
@@ -116,7 +128,7 @@ os.environ['TZ'] = 'Asia/Taipei'
  
 #################################
 filepath = "y:/tmp/password.txt"
-wordpress = "wp-mde40423117.rhcloud.com"
+wordpress = "wp-g0910841123.rhcloud.com"
 fo = open(filepath, "r+")
 data = []
 for line in fo.readlines():
@@ -196,7 +208,7 @@ os.environ['TZ'] = 'Asia/Taipei'
  
 #################################
 filepath = "y:/tmp/password.txt"
-wordpress = "wp-mde40423117.rhcloud.com"
+wordpress = "wp-g0910841123.rhcloud.com"
 fo = open(filepath, "r+")
 data = []
 for line in fo.readlines():
@@ -250,7 +262,7 @@ import html
  
 #################################
 filepath = "y:/tmp/password.txt"
-wordpress = "wp-mde40423117.rhcloud.com"
+wordpress = "wp-g0910841123.rhcloud.com"
 fo = open(filepath, "r+")
 data = []
 for line in fo.readlines():
@@ -341,37 +353,32 @@ Category: 規劃
 Tags: CADLAB, Ｍanual, MCAD
 Author: 40423114
 @others
-個人網際內容管理
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;a href="https://cms-mde40423117.rhcloud.com/"&gt;CMSimply 內容管理系統&lt;/a&gt;
-
-&lt;a href="http://40423117.github.io/blog/post/index.html"&gt;Pelican 靜態網址&lt;/a&gt;
-
-&lt;a href="http://wp-mde40423117.rhcloud.com"&gt;WordPress 動態網誌&lt;/a&gt;
-</t>
+這.................................. 有上過嗎?? 肯能我翹掉了哈哈</t>
 <t tx="leo.20160428223247.1">@language md
 Title: 3個按鈕
-Category: 規劃
+Category: 未分類
 Tags: CADLAB, Ｍanual, MCAD
-Author: 40423114
+Author: g0910841123
 @others
-3個按鈕測試
+3個按鈕測試  
 
-&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/W-uT4S160K8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20160428223251.1">@language md
 Title: 測試
-Category: 規劃
+Category: 未分類
 Tags: CADLAB, Ｍanual, MCAD
-Author: 40423114
+Author: g0910841123
 @others
-測試
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
+測試 40423114
 
 </t>
+<t tx="leo.20160428231132.1"></t>
+<t tx="leo.20160428231152.1"></t>
+<t tx="leo.20160428231156.1"></t>
+<t tx="leo.20160428231200.1"></t>
+<t tx="leo.20160428231205.1"></t>
+<t tx="leo.20160428231919.1"></t>
 </tnodes>
 </leo_file>
